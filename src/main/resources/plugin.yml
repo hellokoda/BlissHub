@@ -1,0 +1,10 @@
+name: BlissHub
+description: An additional core to the hub of gapple.club!
+author: Koda
+version: 1.0
+prefix: Bliss
+website: https://koda.life/
+main: life.koda.BlissHub.main.Main
+commands:
+  gui-joinqueue:
+    description: A special command for the GUI system on gapples hub.
