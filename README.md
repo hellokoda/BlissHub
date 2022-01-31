@@ -1,4 +1,6 @@
-# Bliss Core
+# Blissful Hub
+A minecraft server hub manager
+<br />
 Created by me and some dude named Factor
 ****
 `life.koda.BlissHub.main --[Main package]`
