@@ -1,7 +1,7 @@
 # Blissful Hub
 A minecraft server hub manager
 <br />
-Created by me and some dude named Factor
+Created by me and some dude named Factor with LiteBans and AquaCore support
 ****
 `life.koda.BlissHub.main --[Main package]`
 <br />
