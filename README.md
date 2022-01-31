@@ -1,5 +1,5 @@
 # Bliss Core
-####Created by Koda; with Factor; for gapple.club
+Created by me and some dude named Factor
 ****
 `life.koda.BlissHub.main --[Main package]`
 <br />
